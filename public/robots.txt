@@ -1,6 +1,0 @@
-# robots.txt – Tours & Travels
-User-agent: *
-Allow: /
-
-# Sitemap
-Sitemap: /sitemap.xml
